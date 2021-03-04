@@ -1,4 +1,5 @@
-# AppCursos
+# Cursos
+Desenvolvido por Pedro Paulo e Vitor Koerner - FATEC IPIRANGA - Noturno
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
 
